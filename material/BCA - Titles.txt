@@ -1,0 +1,69 @@
+Web Titles
+
+1. Online LMS Portal
+2. Online Lawyer Booking Application
+3. Pet Store E commerce Application
+4. Advance Data Access with multi factor authentication
+5. Online Medical System Analysis
+6. Online Book Store Application
+7. Online Inventory control Application
+8. Courier Tracking System
+9. Online Campus recruitment Portal
+10.Online Employee Portal
+11.Employee Easy Leave Application
+12.Bug Tracking System
+13.Online Loan Application System
+14.Online Grocery Store
+15.Employee Tracking System
+16.Online Nature Product E commerce Application
+17.Art Gallery Application
+18.Bakery Shop Management System
+19.Online Cab Service
+20.Computer Resources Management System
+21.Crime Management System
+22.Electric Bunk Recharge System
+23.Faculty Event Application Portal
+24.Fitness Training Application Portal
+25.Food Waste Management System
+26.Online Home Service
+27.Hotel Application Portal
+28.Entrprise Application of Hospital Management
+29.Customised Gift Shop Portal
+30.Movie Ticket Booking Application
+31.Online Computer Accessories Portal
+32.Online Election Voting System
+33.Online Game Store
+34.Real-estate Application Portal
+35.Tours and Travels 
+36.Wedding Event Planner 
+37.Sports Scheduling Application
+
+Python
+
+1. Taxi Stand Maintenance Application
+2. Web Application for Client Record System
+3. Employee Tracking System
+4. Movers and packers Application
+5. News Portal Application
+6. Restaurant Table Reservation
+7. Blood Bank Maintanence System
+8. User Authentication and Symmetric Keys Using Cryptographic Technique
+9. Banking Transaction using Crypotographic Method
+10.Secure File Transfer in Multi-user environment
+11.Student Record Information Based on University
+12.Hospital Maintanence System
+13.Website Design for Computer Accessories
+14.Design and maintanence of Bookstore
+15.Ecommerce Website Design Using Django
+16.Webiste Design for Vehicle Breakdown Assistance Maintenance System
+17.Website Design For Gold Loan Application
+18.E-Farm Application Using Django
+19.Cold Storage Maintenance System
+20.Smart Bug Tracking System
+21.Advance E- Lawyer Application Portal
+22.Employee Task Tracking System
+23.Website Design of Vehicle Breakdown Assitance System
+24.Smart Blood Bank Portal
+25.Gold Loan Application System
+26.Food Waste management
+27.Smart Health Prediction

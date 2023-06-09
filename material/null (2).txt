@@ -1,0 +1,50 @@
+1) Optimization of the Hybrid Movie Recommendation System Based on Weighted Classification and User Collaborative Filtering Algorithm
+2) Optimizing Liver disease prediction with Random Forest by various Data balancing Techniques
+3) Airfare Prices Prediction Using Machine Learning Techniques
+4) A Data Analytics Approach to the Cybercrime Underground Economy
+5) Identifying Bone Tumor using X-Ray Images
+6) A Two-Stage Model to Predict Surgical Patient's Lengths of Stay From an Electronic Patient Database
+7) E-Library with URLS tutorial, PDF Books & Videos
+8) Mitigating DDOS Attack In IOT Network Environment
+9) Movie Success Prediction Using Naïve Bayes, Logistic Regression and Support Vector Machine 
+10)Drug Recommendation System based on Sentiment Analysis of Drug Reviews using Machine Learning 
+11)A Model for prediction of consumer conduct using machine learning algorithm 
+12)Evaluation of Machine Learning Algorithms for the Detection of Fake Bank Currency 
+13)A Hybrid Posture Detection Framework: Integrating Machine Learning and Deep Neural Networks
+21)BSSPD: A Blockchain-Based Security Sharing Scheme for Personal Data with Fine-Grained Access Control
+22)An Enhanced Multi-Modal Biometric Authentication
+23)Designing Secure and Efficient Biometric
+24)VitaSi: A real-time contactless vital signs estimation system
+25)Road Traffic Vehicle Detection and Tracking using Deep Learning with Custom-Collected and Public Datasets
+26)DL-IDF: Deep Learning Based Intrusion Detection Framework in Industrial Internet of Things
+27)Age Detection using person image
+28)Implementation of Blockchain in Financial Sector to Improve Scalability
+29)Comparative Study of Machine Learning Algorithms for Fraud Detection in Blockchain
+30)Blockchain based Milk Delivery Platform for Stallholder Dairy Farmers in Kenya: Enforcing Transparency and Fair Payment
+31)Deep Cross-modal Face Naming for People News Retrieval
+32)Blockchain for Financial Application
+33)Image Forgery Detection Based on Fusion of Lightweight Deep Learning Models
+34)Intelligent Agent based Job Search System
+35)A Novel Method for Computationally Efficacious Linear and Polynomial Regression Analytics of Big Data in Medicine
+36)The CNN and DPM based approach for multiple object detection in images
+37)Building Search Engine Using Machine Learning Technique
+38)Emotion Detection using Twitter Datasets and Spacy Algorithm
+39)Stock Price Prediction using Twitter Dataset
+40)Agriculture Helper Chatbot
+41)Alzheimer Disease Prediction using Machine Learning Algorithms
+42)Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds
+43)Detecting Multi-stage Attacks using Sequence-to-Sequence Model
+44)Deep Learning of Facial Depth Maps for Obstructive Sleep Apnea Prediction
+45)Discovery and Prediction of Stock Index Pattern via Three-Stage Architecture of TICC, TPA-LSTM and Multivariate LSTM-FCNs
+46)Stock Market Analysis using Supervised Machine Learning
+47)Toward Detection and Attribution of Cyber-Attacks in IoT-enabled Cyber-physical Systems
+48)Electronics Component Identification from Voice
+49)Facial Expression from Webcam
+50)Content Based Image Retrieval using Deep Learning
+51)A Recurrent CNN for Automatic Detection and Classification of Coronary Artery Plaque and Stenosis in Coronary CT Angiography
+52)Monkeypox Detection using Modified VGG16 & Custom CNN Model
+53)Project Recommendation for Open Source Communities
+54)Detection of Supra Ventricular Arrhythmia using LSTM, BI-LSTM & GRU
+55)Automated Detection of Cardiac Arrhythmia using Recurrent Neural Network
+56)Secure crypto-biometric system for cloud computing
+57)QR Code Based Attendance System
